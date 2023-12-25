@@ -1,2 +1,5 @@
-# CENTIPEDE
-Welcome to the Centipede Game, an arcade-inspired project developed in C++ with the SFML (Simple and Fast Multimedia Library) for graphics and multimedia handling. This repository contains the source code and assets for the implementation of the iconic Centipede game, enhanced with the capabilities of SFML.
+# CENTIPEDE GAME IN C++ 
+Developed a classic arcade-style Centipede Game as the final project for [course/program name]. Implemented in C++ with a focus on object-oriented design, the game showcases my proficiency in fundamental programming concepts. Utilized the SFML library for graphics and multimedia handling, enhancing the visual appeal and overall gaming experience. Achieved a user-friendly interface, incorporating classic gameplay elements and sound effects to create an immersive atmosphere. Successfully completed and demonstrated the project's functionality, contributing to a deeper understanding of software development and game programming.
+
+Note:
+This project is included for demonstration purposes only and is not released under an open-source license. The source code is not provided for public use or modification without explicit permission.
